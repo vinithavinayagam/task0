@@ -1,0 +1,39 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    padding: 20px;
+}
+h1{
+    color: #333;
+    text-align: center;
+}
+form{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 50px;
+    margin: auto;
+    
+}
+input,textarea,select,label{
+    width: 100px;
+    max-width: 100%;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+input[type="radio"],input[type="checkbox"]{
+    width: auto;
+}
+input[type="submit"]{
+    background-color: pink;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: auto;
+}
+input[type="submit"]:hover{
+    background-color: green;
+    text-align: center;
+}

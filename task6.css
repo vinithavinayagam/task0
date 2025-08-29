@@ -1,0 +1,26 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orchid;
+    margin: 10px;
+    padding: 20px;
+}
+nav{
+    background-color: lightgray;
+    position: sticky;
+    margin:10px;
+    padding: 10px;
+    text-align: center;
+    top: 0;
+    z-index: 1000;
+
+}
+nav a{
+    color: darkseagreen;
+    margin: 0 15px;
+    text-decoration: none;
+
+}
+nav a:hover{
+    text-decoration: underline;
+
+}

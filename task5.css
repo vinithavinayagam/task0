@@ -1,0 +1,19 @@
+body{
+    font-family:Arial;
+    background-color: pink;
+    margin: 30px;
+    
+
+}
+h1{
+    color:yellow;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+
+}
+p{
+    color:red;
+    font-size: 27px;
+    text-align: justify;
+}
